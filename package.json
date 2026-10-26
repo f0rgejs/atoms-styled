@@ -1,0 +1,23 @@
+{
+  "name": "@vladislav-l/atoms-native",
+  "version": "1.0.0",
+  "description": "Atomic inline styling for React Native — pure JavaScript, no CSS",
+  "main": "src/index.js",
+  "files": ["src", "LICENSE", "README.md"],
+  "keywords": [
+    "react-native",
+    "react-native-styles",
+    "inline-styles",
+    "atomic-css",
+    "style-objects"
+  ],
+  "peerDependencies": {
+    "react": ">=17",
+    "react-native": ">=0.71"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladislav-l/atoms-native.git"
+  }
+}
