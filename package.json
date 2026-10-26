@@ -1,5 +1,5 @@
 {
-  "name": "@vladislav-l/atoms-native",
+  "name": "atoms-styled",
   "version": "1.0.0",
   "description": "Atomic inline styling for React Native — pure JavaScript, no CSS",
   "main": "src/index.js",
@@ -18,6 +18,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vladislav-l/atoms-native.git"
+    "url": "git+https://github.com/f0rgejs/atoms-styled.git"
   }
 }
